@@ -14,7 +14,7 @@ Para a instalação funcionar, seguir os passos abaixo:
 
 ### Banco de Dados
 - Primeiro criar um banco de dados `MYSQL 8` de nome `db_hinario`;
-- Colocar as credenciais de usuário no `application.propeties` da pasta `hinarioEletronico`;
+- Colocar as credenciais de usuário no `application.properties` da pasta `hinarioEletronico`;
 
 ### Aplicação
 - Após configurado o Banco de dados, acesse a pasta `hinarioEletronico` e execute o comando `./mvnw spring-boot:run` para rodar a aplicação Spring;
